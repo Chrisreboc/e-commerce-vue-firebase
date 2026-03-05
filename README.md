@@ -6,6 +6,7 @@ El equipo de desarrollo del área de e-commerce necesita una aplicación SPA (Si
 Repositorio de Github:
 Deploy del Proyecto:
 
+Cabe recordar que para poder hacer uso de la plataforma debes ingresar tus keys y datos a firebaseConfigExample.js.
 ## DETALLES DEL PROYECTO
 
 El producto se ha adaptado a un sistema de Vue que funciona como SPA, la página no requiere de recargas para funcionar o redireccionar pues tiene elemetnos y vistas dinámicos. además como fuente de almacenamiento se ha usado firebase como database, ideal para almacenar imágenes y variables globales que pueden ser utilizadas a lo largo del proyecto y que posteriormente un cliente puede acceder a ellas.
