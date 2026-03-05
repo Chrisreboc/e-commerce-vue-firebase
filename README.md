@@ -3,8 +3,8 @@ El equipo de desarrollo del área de e-commerce necesita una aplicación SPA (Si
 
 ## REPOSITORIO Y DEPLOY DEL PROYECTO
 
-Repositorio de Github:
-Deploy del Proyecto:
+Repositorio de Github: https://github.com/Chrisreboc/e-commerce-vue-firebase.git
+Deploy del Proyecto: https://chrisreboc.github.io/e-commerce-vue-firebase/
 
 Cabe recordar que para poder hacer uso de la plataforma debes ingresar tus keys y datos a firebaseConfigExample.js.
 ## DETALLES DEL PROYECTO
